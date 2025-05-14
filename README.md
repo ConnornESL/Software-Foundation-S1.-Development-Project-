@@ -1,0 +1,1 @@
+ The project involves creating a Python program to analyse album sales data from a CSV file. The program reads data, extracts artist and album names, classifies albums based on sales (Gold, Platinum, etc.), and outputs results to a .csv file. A batch script runs the program from the command line. 
